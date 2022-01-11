@@ -7,13 +7,12 @@ import fav from '../../img/store1.png';
 
 const NavBar = () => {
     return (
-        <Collapsible  trigger='MENU' className='collapsible '>
+        
             <div className='sidebar'>
                 <div className='sidebar-top'>
                     <i class='logo fab fa-sketch'>
-                    <span className='brand'>
+                        <span className='brand'>
                             Store
-                            
                         </span>
                     </i>
                 </div>
@@ -71,7 +70,7 @@ const NavBar = () => {
                 </div>
                 <div className='sidebar-bottom'></div>
             </div>
-            </Collapsible>
+           
     )
 };
 

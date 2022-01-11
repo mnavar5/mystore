@@ -10,14 +10,11 @@ const Intro = () => {
                     <h1 className='i-intro'>Navarro </h1>
                     <div className='i-title'>
                         <div className='i-title-wrapper'>
-                            <div className='i-title-item'>Web 3.0</div>
+                            <div className='i-title-item'>Web3.0</div>
                             <div className='i-title-item'>Metaverse</div>
-                            <div className='i-title-item'>Research Data Scientist</div>
-                            <div className='i-title-item'>HealthCare</div>
-                            <div className='i-title-item'>Block-Chain Research</div>
-                            <div className='i-title-item'>Machine Learning</div>
-                            <div className='i-title-item'>Artificial Intelligence</div>
-                        </div>
+                            <div className='i-title-item'>Decentralized</div>
+                            <div className='i-title-item'>BlockChain</div>
+                       </div>
                     </div>
                     <p className='i-desc'>
                         "I believe there’s always opportunity uncovered in data and a great team of specialist to create a new vision for the future."
